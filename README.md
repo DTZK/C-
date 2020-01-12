@@ -11,6 +11,5 @@ int main()
    return 0;
 }
 
-hellomake: C-.c
-        gcc -o hellomake C-.c -I.
+
    
